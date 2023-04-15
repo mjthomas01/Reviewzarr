@@ -1,0 +1,14 @@
+/* .dark-button{
+     background-color: '#2B2B2B';
+     color: '#fff';
+     padding: '8px 16px';
+     border-radius: '30px';
+     border: 'none';
+     cursor: 'pointer';
+     display: 'flex';
+     align-items: 'center';
+} */
+.dark-button:hover{
+    background-color: #fff;
+    color: #fff;
+}

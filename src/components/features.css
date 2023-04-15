@@ -1,0 +1,18 @@
+.testimony {
+    background-color: var(--bg-color);
+    color: black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    padding: 2rem;
+  }
+  .testimony div {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    gap: 0px;
+  }
